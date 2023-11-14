@@ -1,0 +1,20 @@
+
+.metrics-list-container {
+    background-color: #e6e6e6;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .metrics-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .metrics-list li {
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+  }
+    
